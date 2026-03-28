@@ -89,6 +89,7 @@ Un CWC è un componente web incapsulato che può essere:
 ---
 
 ## 📁 **STRUTTURA DI UN CWC**
+```
 📦 MyCustomControl/
 ├── 📄 manifest.json # Definizione del controllo
 ├── 📂 control/
@@ -101,7 +102,7 @@ Un CWC è un componente web incapsulato che può essere:
 ├── 📂 libs/ # Librerie esterne (opzionale)
 │ └── 📄 tabulator.min.js
 └── 📄 README.md # Documentazione
-
+```
 ---
 
 ## 🚀 **CREAZIONE PASSO-PASSO**
