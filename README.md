@@ -7,7 +7,7 @@ Custom Web Control (CWC) avanzato per WinCC Unified che integra Tabulator.js con
 - ✅ Visualizzazione dati SQL in tabelle interattive
 - ✅ Filtri avanzati (data, codice pezzo, numero seriale)
 - ✅ Formattazione automatica date e numeri
-- ✅ Export dati (CSV, Excel, PDF)
+-     Export dati (CSV, Excel, PDF)
 - ✅ Ordinamento e ricerca integrati
 - ✅ Supporto SQLite e MS SQL Server
 - ✅ Gestione errori robusta
@@ -27,10 +27,10 @@ Custom Web Control (CWC) avanzato per WinCC Unified che integra Tabulator.js con
 
 ### 1. Importa il CWC in WinCC Unified
 
-1. Apri **WinCC Unified Engineering**
+1. Spostare il file CWC in **C:\Program Files\Siemens\Automation\Portal V21\Data\Hmi\CustomControls**
 2. Vai su **Project Tree** → **Controls**
-3. Click destro → **Import Custom Web Control**
-4. Seleziona la cartella `CWC/`
+3. Click doppia freccia → **Aggiorna Custom Web Control**
+4. Si apre un Popup con tutte le istance nel progetto che verrranoo aggiornate `CWC/`
 
 ### 2. Importa gli Script
 
